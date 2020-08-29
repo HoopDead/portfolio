@@ -57,7 +57,7 @@ class ContactSection extends Component {
                         </MDBCol>
                 </MDBRow>
                 <MDBRow class = "mt-5" id = "contact-section">
-                    <MDBCol sm = "12" className = "text-center py-5 py-lg-4">
+                    <MDBCol sm = "12" className = "text-center py-5 my-lg-4">
                         <p className = "contact-title">Contact with me</p>
                     </MDBCol>
                     <MDBCol sm = "12" id = "validate-error" className = "d-none">

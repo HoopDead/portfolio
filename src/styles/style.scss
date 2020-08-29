@@ -27,13 +27,11 @@ html, body {
 /* NAVBAR SECTION */
 
 .navbar-absolute {
-  @include large_device() {
     background: transparent;
     position: absolute;
     color: #fafafa;
     width: 100%;
     font-weight: 600;
-  }
 }
 
 .navbar-link {
@@ -48,11 +46,9 @@ html, body {
 }
 
 .navbar-text-right {
-  @include large_device() {
     background: transparent;
     position: absolute;
     width: 100%;
-  }
 }
 
 /* HOME SECTION */
