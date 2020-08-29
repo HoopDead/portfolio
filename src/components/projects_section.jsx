@@ -25,7 +25,7 @@ class ProjectsSection extends Component {
                 <MDBCol xl = "3" md = "5" xs = "12" className = "text-center mt-5  py-4 mx-auto mx-xl-5 my-xl-3 px-lg-5 projects-card">
                     <MDBIcon size = "2x" className = "projects-card-icon mb-3" fas icon = "code"></MDBIcon>
                     <a href="http://itdepartment.pl/" class="stretched-link"><p className = "projects-card-title">ITDepartment</p></a>
-                    <p className = "projects-card-description">Static website made for IT company.</p>
+                    <p className = "projects-card-description">Static portfolio website made for IT software company.</p>
                     <MDBRow className = "justify-content-center">
                         <MDBIcon fab className = "projects-bootstrap projects-icon mx-3" icon = "bootstrap"></MDBIcon>
                         <MDBIcon fab className = "projects-react projects-icon mx-3" icon = "react"></MDBIcon>
@@ -57,7 +57,7 @@ class ProjectsSection extends Component {
                 <MDBCol xl = "3" md = "5" xs = "12" className = "text-center mt-5  py-4 mx-auto mx-xl-5 my-xl-3 px-lg-5  projects-card">
                     <MDBIcon size = "2x" className = "projects-card-icon mb-3" fas icon = "calculator"></MDBIcon>
                     <a href="http://hoopdead.github.io/math_game/" class="stretched-link"><p className = "projects-card-title">Math Game</p></a>
-                    <p className = "projects-card-description">Game where you have to solve as many equations as possible in time.</p>
+                    <p className = "projects-card-description">Game where you have to solve math equations in given time.</p>
                     <MDBRow className = "justify-content-center">
                         <MDBIcon fab className = "projects-html5 projects-icon mx-3" icon = "html5"></MDBIcon>
                         <MDBIcon fab className = "projects-css3 projects-icon mx-3" icon = "css3"></MDBIcon>
@@ -97,7 +97,7 @@ class ProjectsSection extends Component {
                 <MDBCol xl = "3" md = "5" xs = "12" className = "text-center mt-5  py-4 mx-auto mx-xl-5 my-xl-3 px-lg-5 projects-card">
                     <MDBIcon size = "2x" className = "projects-card-icon mb-3" fas icon = "chess-board"></MDBIcon>
                     <a href="https://github.com/hoopdead/2048_player/" class="stretched-link"><p className = "projects-card-title">2048 Game Analyze</p></a>
-                    <p className = "projects-card-description">Script that analyze what approach is the best for reaching highest score.</p>
+                    <p className = "projects-card-description">Script that analyze what approach is the best.</p>
                     <MDBRow className = "justify-content-center">
                         <img src = {PythonIcon} alt = ""></img>
                     </MDBRow>
@@ -117,7 +117,7 @@ class ProjectsSection extends Component {
                 <MDBCol xl = "3" md = "5" xs = "12" className = "text-center mt-5  py-4 mx-auto mx-xl-5 my-xl-3 px-lg-5 projects-card">
                     <MDBIcon size = "2x" className = "projects-card-icon mb-3" fas icon = "list"></MDBIcon>
                     <a href="https://github.com/HoopDead/todo-react-app" class="stretched-link"><p className = "projects-card-title">Todo App</p></a>
-                    <p className = "projects-card-description">Web App for things that you need to do.</p>
+                    <p className = "projects-card-description">Web App for list things that you need to do in future.</p>
                     <MDBRow className = "justify-content-center">
                         <MDBIcon fab className = "projects-bootstrap projects-icon mx-3" icon = "bootstrap"></MDBIcon>
                         <MDBIcon fab className = "projects-react projects-icon mx-3" icon = "react"></MDBIcon>
@@ -127,7 +127,7 @@ class ProjectsSection extends Component {
                 <MDBCol xl = "3" md = "5" xs = "12" className = "text-center mt-5  py-4 mx-auto mx-xl-5 my-xl-3 px-lg-5 projects-card">
                     <MDBIcon size = "2x" className = "projects-card-icon mb-3" fas icon = "crown"></MDBIcon>
                     <a href="https://www.figma.com/proto/i1wiknamzKunPxMY6zUY0n/Untitled?node-id=64%3A5&scaling=min-zoom" class="stretched-link"><p className = "projects-card-title">Miss Dress</p></a>
-                    <p className = "projects-card-description">Example UI Project made in Figma for wedding dress salon.</p>
+                    <p className = "projects-card-description">Example UI Project in Figma for wedding dress salon.</p>
                     <MDBRow className = "justify-content-center">
                         <img src = {FigmaIcon} alt = ""></img>
                     </MDBRow>
